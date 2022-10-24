@@ -20,8 +20,8 @@
 
 ##      Web documents
 
-   [The simplest button debounce solution](https://www.e-tinkers.com/2021/05/the-simplest-button-debounce-solution/)
-   [A Guide to debouncing. Part 2](http://www.ganssle.com/debouncing-pt2.htm)
+   [The simplest button debounce solution](https://www.e-tinkers.com/2021/05/the-simplest-button-debounce-solution/)  
+   [A Guide to debouncing. Part 2](http://www.ganssle.com/debouncing-pt2.htm)  
 
 ##      debounce library github
 
