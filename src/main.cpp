@@ -14,7 +14,7 @@ setup(void)
 void
 loop(void)
 {
-#if 0
+#if 1
     // Original example
 
     if (btn1.debounce())             // press button 1 to turn on the LED
